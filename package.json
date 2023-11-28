@@ -1,0 +1,18 @@
+{
+  "name": "nost-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "nost": "index.js"
+  },
+  "repository": "https://github.com/G0ngzheng/nost-cli.git",
+  "author": "coderMonkey <gz550112335@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@inquirer/prompts": "^3.3.0",
+    "chalk": "4.0.0",
+    "commander": "^11.1.0",
+    "download-git-repo": "^3.0.2",
+    "ora": "^5.1.0"
+  }
+}
