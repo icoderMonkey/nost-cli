@@ -1,12 +1,12 @@
 {
   "name": "nost-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "bin": {
     "nost": "index.js"
   },
   "repository": "https://github.com/G0ngzheng/nost-cli.git",
-  "author": "coderMonkey <gz550112335@gmail.com>",
+  "author": "G0ngzheng <Gz550112335@163.com>",
   "keywords": ["node", "koa", "javascript", "cli"],
   "license": "MIT",
   "dependencies": {
