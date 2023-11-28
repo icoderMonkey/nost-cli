@@ -7,6 +7,7 @@
   },
   "repository": "https://github.com/G0ngzheng/nost-cli.git",
   "author": "coderMonkey <gz550112335@gmail.com>",
+  "keywords": ["node", "koa", "javascript", "cli"],
   "license": "MIT",
   "dependencies": {
     "@inquirer/prompts": "^3.3.0",
