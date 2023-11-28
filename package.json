@@ -8,7 +8,7 @@
   "repository": "https://github.com/G0ngzheng/nost-cli.git",
   "author": "coderMonkey <gz550112335@gmail.com>",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "@inquirer/prompts": "^3.3.0",
     "chalk": "4.0.0",
     "commander": "^11.1.0",
