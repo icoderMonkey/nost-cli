@@ -25,7 +25,7 @@ const handleInit = async (source) => {
     const download = ora(chalk.bold(`Initializing ${source} project...`)).start()
 
     downloadGitRepo(
-        'direct:https://github.com/G0ngzheng/tn.git#main',
+        'direct:https://github.com/G0ngzheng/nost.git#main',
         `${source}`,
         { clone: true },
         async (err) => {
